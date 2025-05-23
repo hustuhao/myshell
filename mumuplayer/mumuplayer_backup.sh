@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# /Volumes/LinaBell/Software/Mumuplayer/备份
 # 默认源目录和目标目录
 DEFAULT_SOURCE_DIR="$HOME/Library/Application Support/com.netease.mumu.nemux/vms"
 DEFAULT_BACKUP_DIR="$HOME/vms_backup" # 默认备份存放目录
